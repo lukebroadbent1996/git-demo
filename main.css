@@ -1,0 +1,43 @@
+body{
+    font-family: helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    background-color: 	#A9A9A9;
+}
+
+#mainBox{
+    display: flex;
+    font-size: 10em;
+}
+.infoBox{
+    display: flex;
+}
+#box{
+    display: flex;
+    flex-direction: column;
+    background-color: 	#808080;
+    width: 11em;
+    height: 11em;
+    justify-content: center;
+    align-items: center;
+    margin: 3em;
+    border: white;
+    border-radius: 2em;
+    border-style: solid;
+}
+
+h1{
+   font-size: 8em;
+   margin: 0;
+}
+h2{
+    margin: 0;
+    color: #C0C0C0;
+}
+
+p{
+    font-size: 2em;
+}
